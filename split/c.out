@@ -1,0 +1,4 @@
+mode: set
+mygo/split/split.go:5.45,7.13 2 1
+mygo/split/split.go:12.2,13.8 2 1
+mygo/split/split.go:7.13,11.3 3 1
