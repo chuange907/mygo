@@ -23,12 +23,12 @@ type person struct {
 	age  int8
 }
 
-type student struct {
+type student1 struct {
 	name string
 	age  int
 }
 
-func main() {
+func main1() {
 	var p2 = new(person)
 	p2.name = "测试"
 	p2.age = 18
